@@ -1,0 +1,1 @@
+# Springboard365.StyleCop
