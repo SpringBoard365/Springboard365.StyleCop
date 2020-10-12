@@ -1,0 +1,35 @@
+{
+    "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
+    "settings": {
+        "documentationRules": {
+            "companyName": "Springboard 365 Ltd",
+            "copyrightText": "Copyright (c) {companyName}. All rights reserved.\nLicensed under the {licenseName} license. See {licenseFile} file in the project root for full license information.",
+            "variables": {
+                "licenseName": "Apache 2.0",
+                "licenseFile": "LICENSE"
+            },
+            "xmlHeader": true,
+            "documentationCulture": "en-GB",
+            "documentInterfaces": false,
+            "documentExposedElements": false,
+            "documentInternalElements": false,
+            "documentPrivateElements": false,
+            "documentPrivateFields": false,
+            "fileNamingConvention": "stylecop"
+        },
+        "indentation": {
+            "indentationSize": 4,
+            "tabSize": 4,
+            "useTabs": false
+        },
+        "layoutRules": {
+            "newlineAtEndOfFile": "omit",
+            "allowConsecutiveUsings": false
+        },
+        "orderingRules": {
+            "blankLinesBetweenUsingGroups": "omit",
+            "systemUsingDirectivesFirst": true,
+            "usingDirectivesPlacement": "insideNamespace"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{417F73F5-DAAC-4357-9B00-608C7457901F}"
+	ProjectSection(SolutionItems) = preProject
+		Build\NugetPush.bat = Build\NugetPush.bat
+		Build\Springboard365.StyleCop.json = Build\Springboard365.StyleCop.json
+		Build\Springboard365.StyleCop.nuspec = Build\Springboard365.StyleCop.nuspec
+		Build\Springboard365.StyleCop.props = Build\Springboard365.StyleCop.props
+		Build\Springboard365.StyleCop.ruleset = Build\Springboard365.StyleCop.ruleset
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D91B6A2-0599-4B60-AFEE-6CF8B3F962E5}
+	EndGlobalSection
+EndGlobal
