@@ -1,5 +1,5 @@
 @echo off
-SET packageVersion=1.0.0-alpha02
+SET packageVersion=1.0.0-beta01
 SET id=Springboard365.StyleCop
 SET author="Springboard 365 Ltd"
 SET repo="https://github.com/SpringBoard365/Springboard365.StyleCop"
