@@ -1,5 +1,5 @@
 @echo off
-SET packageVersion=1.0.2
+SET packageVersion=1.0.3
 SET oldPackageVersion=1.0.0
 SET propsFileName=Springboard365.StyleCop.props
 SET id=Springboard365.StyleCop
