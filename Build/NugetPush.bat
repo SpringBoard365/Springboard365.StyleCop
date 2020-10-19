@@ -8,7 +8,6 @@ SET repo="https://github.com/SpringBoard365/Springboard365.StyleCop"
 SET description="StyleCop helper package from Springboard 365 Ltd ."
 SET tags="StyleCop DotNetAnalyzers Roslyn Diagnostic Analyzer CleanCode"
 
-cscript replace.vbs %propsFileName% %oldPackageVersion% %packageVersion%
 cscript //NoLogo replace.vbs %propsFileName% %oldPackageVersion% %packageVersion%
 echo Changed package version from %oldPackageVersion% to %packageVersion%
 
